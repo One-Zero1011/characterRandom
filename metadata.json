@@ -1,0 +1,6 @@
+{
+  "name": "Character Design Keyword Generator",
+  "description": "A low-saturation, minimalist random keyword generator to inspire your character designs. Choose custom categories, set quantities, and save your favorite concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
